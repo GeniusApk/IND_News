@@ -1,3 +1,6 @@
+
+![IND](https://github.com/GeniusApk/IND_News/assets/101592615/5ea64be3-6941-4e29-ad08-ccb7348a1b92)
+
 # IND News
 
 IND News is a modern news application that provides users with the latest news across various categories. Built with Jetpack Compose and Material 3, the app features a clean and intuitive user interface. The application integrates with NewsAPI.org to fetch up-to-date news articles, and leverages Coil for image loading and Shimmer for loading effects, ensuring a smooth and engaging user experience.
