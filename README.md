@@ -2,6 +2,17 @@
 
 IND News is a modern news application that provides users with the latest news across various categories. Built with Jetpack Compose and Material 3, the app features a clean and intuitive user interface. The application integrates with NewsAPI.org to fetch up-to-date news articles, and leverages Coil for image loading and Shimmer for loading effects, ensuring a smooth and engaging user experience.
 
+
+
+## Screenshots
+
+<img src="https://github.com/GeniusApk/IND_News/assets/101592615/ea31509e-0662-4141-9b02-92eba02bc4c9" alt="Google Pixel 4 XL Screenshot 1" width="200" height="400"> <img src="https://github.com/GeniusApk/IND_News/assets/101592615/20e7f1d3-8300-45e5-8b58-766904b5deea" alt="Google Pixel 4 XL Screenshot 2" width="200" height="400"> <img src="https://github.com/GeniusApk/IND_News/assets/101592615/d883f6e7-18f9-4fcf-8b89-e670fe936b97" alt="Google Pixel 4 XL Screenshot 3" width="200" height="400"> <img src="https://github.com/GeniusApk/IND_News/assets/101592615/a6e02ebb-3577-4898-9321-3d8ab94e52c7" alt="Google Pixel 4 XL Screenshot 4" width="200" height="400"> <img src="https://github.com/GeniusApk/IND_News/assets/101592615/eb1a5baa-0965-4df0-a21b-813544de2d1c" alt="Google Pixel 4 XL Screenshot 5" width="200" height="400">
+
+
+
+
+
+
 ## Features
 
 - **Multiple News Categories:** Stay updated with news across different categories like Business, Entertainment, Sports, Technology, and more.
