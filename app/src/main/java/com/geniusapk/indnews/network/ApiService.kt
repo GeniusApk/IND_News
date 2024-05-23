@@ -7,7 +7,7 @@ import retrofit2.http.Query
 interface ApiService {
 
 
-    //https://newsapi.org/v2/top-headlines?country=in&sortBy=publishedAt&apiKey=8289982b3728484785c88db1e666ed41
+    //https://newsapi.org/v2/top-headlines?country=in&sortBy=publishedAt&apiKey=your_api_key
 
     @GET("top-headlines")
     suspend fun getNewsFromService(
@@ -15,7 +15,7 @@ interface ApiService {
         @Query("country") country: String = "in",
         @Query("sortBy") sortBy: String = "publishedAt",
         @Query("category") category: String?,
-        @Query("apiKey") apiKey: String = "8289982b3728484785c88db1e666ed41"
+        @Query("apiKey") apiKey: String = "your_api_key"
 
 
 
