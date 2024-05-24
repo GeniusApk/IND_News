@@ -40,6 +40,7 @@ IND News is a modern news application that provides users with the latest news a
 - Retrofit (for network requests)
 - Kotlin Coroutines (for asynchronous programming)
 - ViewModel and LiveData (for managing UI-related data)
+- MVVM
 
 ## Dependencies
 
