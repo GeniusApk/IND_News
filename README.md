@@ -6,6 +6,13 @@
 IND News is a modern news application that provides users with the latest news across various categories. Built with Jetpack Compose and Material 3, the app features a clean and intuitive user interface. The application integrates with NewsAPI.org to fetch up-to-date news articles, and leverages Coil for image loading and Shimmer for loading effects, ensuring a smooth and engaging user experience.
 
 
+## Download
+
+ You can download the latest version by clicking the button below.
+
+<a href="https://github.com/GeniusApk/IND_News/releases/download/v1.1/app-debug.apk" download>
+  <img src="https://img.shields.io/badge/download-latest-blue" alt="Download">
+</a>
 
 ## Screenshots
 
